@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/0_Gateway/">
+    <Project Path="ApiGateway/ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/1_Services_Dungeon/">
+    <Project Path="DungeonService.Domain/DungeonService.Domain.csproj" />
+  </Folder>
+  <Folder Name="/2_Services_Player/" />
+  <Folder Name="/3_Shared/" />
+</Solution>
